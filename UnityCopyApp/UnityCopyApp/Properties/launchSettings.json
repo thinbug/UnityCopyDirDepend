@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UnityCopyApp": {
+      "commandName": "Project",
+      "commandLineArgs": "E:\\ESCAPE\\Decode\\DecodeUnity\\Assets\\ResScenes\\scene6\\GTYY原始文件"
+    }
+  }
+}
